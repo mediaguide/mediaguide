@@ -67,6 +67,14 @@ date:   2014-09-17 13:09:39
 
 	Communication Design encourages a critical engagement with historic and contemporary practice, relating social cultural and political contexts. Learning is supported by a weekly series of professional practice lectures, in which some of the most respected designers in Europe visit the School and meet our students. A partnership between Singapore Institute of Technology (SIT) and Glasgow School of Art (GSA).
 
+- [![BFA in Art, Design and Media](/img/logo-ntu.png)<br/>BFA in Art, Design and Media<svg></svg>](http://www.adm.ntu.edu.sg/Programmes/Undergraduate/Pages/Home.aspx){:target="_blank"}
+
+	This degree combines rigorous foundation in traditional art and design studio disciplines, and innovative development in new media that incorporates contemporary art, design and media studies with an emphasis on studio practice in a specifics discipline balanced with scholarship in cultural and historical studies. 
+
+- [![Bachelor of Communication Studies](/img/logo-ntu.png)<br/>Bachelor of Communication Studies<svg></svg>](http://www.wkwsci.ntu.edu.sg/programmes/CurrentStudents/Undergraduate/Pages/Undergraduate.aspx){:target="_blank"}
+
+	The Bachelor of Communication Studies is a 4 year programme for undergraduates interested in majoring in Journalism, Advertising, Public Relations, Broadcast and Cinema Studies, Communications Research, Interdisciplinary and Information Analytics.
+
 - [![Diploma in Communication Design](/img/logo-tp.png)<br/>Diploma in Communication Design<svg></svg>](http://www.tp.edu.sg/schools/des/communication-design-t59){:target="_blank"}
 
 	The Communication Design course is home to curious and critical thinkers who thrive on deadlines and enjoy churning fresh and exciting ideas.  The work we do spans both the latest digital platforms and the elegant craft-based sensitivity of the old-school. This is a vibrant environment that constantly pushes the envelope, challenging students to reach higher crags in creative expression.
