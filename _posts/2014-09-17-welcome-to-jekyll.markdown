@@ -7,7 +7,7 @@ date:   2014-09-17 13:09:39
 ## Groups & Communities
 - [![Objectifs](/img/logo-objectifs.png)<br/>Objectifs<svg></svg>](http://objectifs.com.sg){:target="_blank"}
 
-	Objectifs is a non-profit visual arts centre dedicated to promoting photography and film.
+	Established in 2003, Objectifs is a non-profit visual arts centre dedicated to photography and film in Singapore.
 
 - [![Platform.SG](/img/logo-platform.gif)<br/>Platform.SG<svg></svg>](http://platform.sg){:target="_blank"}
 
@@ -15,15 +15,14 @@ date:   2014-09-17 13:09:39
 
 - [![Invisible Photographer Asia](/img/logo-ipa.png)<br/>Invisible Photographer Asia<svg></svg>](http://invisiblephotographer.asia){:target="_blank"}
 
-	Invisible Photographer Asia (IPA) was founded in 2010, and since then has grown into a leading and influential platform for Photography and Arts in Asia. We participate vigorously in the movement of Photography in Asia through talent showcases, events and exhibitions, workshops and education, and community outreach.
-
+	Invisible Photographer Asia (IPA) was founded in 2010, and since then has grown into a leading and influential platform for Photography and Arts in Asia.
 - [![Deck.SG](/img/logo-deck.png)<br/>Deck.SG<svg></svg>](http://deck.sg){:target="_blank"}
 
 	A communal art space for people to gather in the name of art and photography. DECK is a physical manifestation of how photography transcends time and space (Discovery), sparks conversation (Engagement), brings people together (Community) and conveys information (Knowledge). These made up the acronym D.E.C.K.
 
 - [![Clubsnap](/img/logo-clubsnap.png)<br/>Clubsnap<svg></svg>](http://clubsnap.com){:target="_blank"}
 
-	Welcome to ClubSNAP, the largest dedicated photography discussion forum and community site in Singapore with more than 188,000 members from Singapore, South East Asia and other parts of the world. Members are encouraged to share knowledge, discuss ideas and forge new friendships with others who have a similiar passion and interest in photography.
+	ClubSNAP, the largest dedicated photography discussion forum and community site in Singapore with more than 188,000 members from Singapore, South East Asia and other parts of the world.
 
 - [![EOS World](/img/logo-eosworld.jpeg)<br/>EOS World<svg></svg>](http://eosworld.canon.com.sg){:target="_blank"}
 
@@ -56,12 +55,11 @@ date:   2014-09-17 13:09:39
 
 - [![Objectifs Workshops](/img/logo-objectifs.png)<br/>Objectifs Workshops<svg></svg>](https://www.objectifs.com.sg/category/workshops/){:target="_blank"}
 
-	Objectifs provides instruction in photography and filmmaking at different skill levels. Our courses are offered at a part-time level, so that you can learn and create outside the confines of a diploma or full-time environment. Our instructors are all full-time practising photographers and fillmmakers – passionate about their craft and keen to inspire students.
+	Objectifs provides instruction in photography and filmmaking at different skill levels. Our courses are offered at a part-time level, so that you can learn and create outside the confines of a diploma or full-time environment.
 
 - [![Nikon School](/img/logo-nikonschool.png)<br/>Nikon School<svg></svg>](http://www.nikon.com.sg/en_SG/nikon_school/index.page){:target="_blank"}
 
 	At Nikon, we share the same passion for photography as you do. Nikon School helps you develop your interest for photography by making it simple and easy to understand and love.
-	Capturing picture perfect photos will be a breeze as you enjoy the satisfaction of creating your own masterpieces.
 
 ## Formal Education
 
