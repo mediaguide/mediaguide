@@ -1,0 +1,12 @@
+# Site settings
+title: A guide to photo, video and media in Singapore
+email: nsylvia@gmail.com
+description: "A guide to photo, video and media in Singapore."
+baseurl: ""
+url: ""
+twitter_username: sylviang
+github_username:  sylviang
+
+# Build settings
+markdown: kramdown
+permalink: pretty
