@@ -125,3 +125,9 @@ title:  "A media guide in Singapore."
 - [![Diploma in Visual Effects and Motion Graphics](/img/logo-sp.png)<br/>Diploma in Visual Effects and Motion Graphics<svg></svg>](http://www.sp.edu.sg/wps/portal/vp-spws/schdmit.cse.ftdip.visualeffectsandmotiongraphics){:target="_blank"}
 
 	SP Diploma in Visual Effects and Motion Graphics covers creation and presentation of visual effects, motion graphics, and more. You are given the liberty to create your next masterpiece, be it through motion graphics, graphic design, photography, 3D animation and modelling, visual effects and so on.
+
+## Jobs
+
+- [![Cultjobs](/img/logo-cultjobs.png)<br/>Cultjobs<svg></svg>](https://www.cultjobs.com){:target="_blank"}
+
+	We noticed a gap when it came to finding creative jobs. You either waded through a bunch of generalist job sites or relied on good 'ol word of mouth. A small, simple and free job board for anyone to advertise a creative job opportunity.
