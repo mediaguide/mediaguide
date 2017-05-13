@@ -1,7 +1,6 @@
 ---
 layout: default
 title:  "A media guide in Singapore."
-date:   2014-09-17 13:09:39
 ---
 
 ## Groups & Communities
@@ -69,7 +68,7 @@ date:   2014-09-17 13:09:39
 
 - [![BFA in Art, Design and Media](/img/logo-ntu.png)<br/>BFA in Art, Design and Media<svg></svg>](http://www.adm.ntu.edu.sg/Programmes/Undergraduate/Pages/Home.aspx){:target="_blank"}
 
-	This degree combines rigorous foundation in traditional art and design studio disciplines, and innovative development in new media that incorporates contemporary art, design and media studies with an emphasis on studio practice in a specifics discipline balanced with scholarship in cultural and historical studies. 
+	This degree combines rigorous foundation in traditional art and design studio disciplines, and innovative development in new media that incorporates contemporary art, design and media studies with an emphasis on studio practice in a specifics discipline balanced with scholarship in cultural and historical studies.
 
 - [![Bachelor of Communication Studies](/img/logo-ntu.png)<br/>Bachelor of Communication Studies<svg></svg>](http://www.wkwsci.ntu.edu.sg/programmes/CurrentStudents/Undergraduate/Pages/Undergraduate.aspx){:target="_blank"}
 
@@ -111,7 +110,7 @@ date:   2014-09-17 13:09:39
 
 	Dream of becoming a world-class journalist? The DMC will help you build a strong foundation across multiple media platforms including digital, print and br/oadcast. The course will teach you to tailor your messages to reach specific audiences for maximum impact.
 
-- [![Diploma in Media Production and Design](/img/logo-rp.png)<br/>Diploma in Media Production and Design<svg></svg>](http://www.rp.edu.sg/Diploma_in_Media_Production_and_Design_(R19).aspx){:target="_blank"}
+- [![Diploma in Media Production & Design](/img/logo-rp.png)<br/>Diploma in Media Production & Design<svg></svg>](http://www.rp.edu.sg/Diploma_in_Media_Production_and_Design_(R19).aspx){:target="_blank"}
 
 	Using both conventional and digital media formats, you will learn to produce a range of content to enlighten and enliven your audiences. Our comprehensive hands-on training will help you to master key techniques in media production, resulting in a portfolio of dynamic visual works across multiple media channels.
 
